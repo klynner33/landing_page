@@ -83,6 +83,7 @@ h2 {
     width: 100%;
     justify-content: center;
     gap: 25px;
+    margin-bottom: 30px;
 }
 .container {
     display: flex;
